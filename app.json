@@ -1,0 +1,7 @@
+{
+  "name": "Twitter ListBot",
+  "description": "A simple twitter bot, designed to retweet the contents of a twitter list.",
+  "repository": "https://github.com/bryanbraun/twitter-listbot",
+  "logo": "https://twitter-listbot.herokuapp.com",
+  "keywords": ["twitter","node",]
+}
